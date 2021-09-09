@@ -2,7 +2,7 @@
 # Thu Nov 16 04:16:03 UTC 2017
 pkgbase = abiword-gtk2
 	pkgdesc = Fully-featured word processor, Gtk2, With plugins, Lite version
-	pkgver = 3.0.2
+	pkgver = 3.0.5 #3.0.5
 	pkgrel = 1
 	url = http://www.abisource.com
 	arch = x86_64
@@ -18,8 +18,7 @@ pkgbase = abiword-gtk2
 	depends = libxslt
 	conflicts = abiword
 	conflicts = abiword-plugins
-	source = abiword-3.0.2.tar.gz::http://abisource.com/downloads/abiword/3.0.2/source/abiword-3.0.2.tar.gz
-	md5sums = cda6dd58c747c133b421cc7eb18f5796
-
+	source = abiword-3.0.5.tar.gz::http://www.abisource.com/downloads/abiword/3.0.5/source/abiword-3.0.5.tar.gz
+	md5sums = 1257247e9970508d6d1456d3e330cd1909c4b42b25e0f0a1bc32526d6f3a21b4  abiword-3.0.5.tar.gz
 pkgname = abiword-gtk2
 
